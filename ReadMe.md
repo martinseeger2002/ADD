@@ -1,3 +1,5 @@
+![image](https://github.com/GreatApe42069/ADD/assets/153969184/e7b05d19-05df-4cb1-8103-e43706fad3e7)
+
 # Anti Doginal Dogs (ADD)
 
 This repository contains the data for the Anti Doginal Dogs (ADD) project. Each dog in the collection has a set of traits and values that need to be updated from [doggy.market](https://doggy.market/nfts/doginaldogs).
