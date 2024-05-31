@@ -12,6 +12,7 @@ Doginal Dogs [@doginaldogsx](https://twitter.com/doginaldogsx), Bark [@barkmeta]
 These individuals will do and say anything to keep scamming people. They are scumbags. Everyone can see it now, so let everyone know the truth about these jackasses. In their own words, they "came from ETH, SOL. Saw the inscriptions on BTC thought damn those inscribing fees are wild no way is that sustainable. Came here to DOGECOIN. Super cheap, fun, fast, effective." They had no intention to add real value, innovation, or positivity to our ecosystem. They came solely to extract liquidity from our unsuspecting, loving community.
 
 **We Will Protector Our Community.** 
+
 Everyone's a crypto or meme coin expert until scammers like this take your bag. Not in our Monopoly game. If the tables won't turn, we flip them the fuck over.
 
 So to counter this negative perception portrayed by these snakes infiltrating the DOGE and DOGINAL community, [@TheNodeRunners](https://twitter.com/TheNodeRunners) bring to you the "Anti Doginal Dogs," a 10,000-piece recursive collection, trolling these scammers immutably on the blockchain forever to be immortalized as the scumbags they are. *The ⁦@doginaldogsx⁩ aren't Doginal Anything!!!!*
@@ -44,17 +45,19 @@ If you need assistance with minting, indicate this in your pull request. Someone
 
 ## Important Notes
 
-- Ensure that all information is accurate and corresponds to the data needed for minting.
-- Collaborate and communicate with other contributors to avoid conflicts and duplicate entries.
-- Regularly check the original repository for updates and new information.
+   - Ensure that all information is accurate and corresponds to the data needed for minting.
+   - Collaborate and communicate with other contributors to avoid conflicts and duplicate entries.
+   - Regularly check the original repository for updates and new information.
+   - Yes, laser nipple index will be initially set to 0 but if you change it to one, it will enable laser nipples
+   - It will be up to individual Node Runners to go through their HTML files and set the index to 1
 
 # Contributing
 
 1. **Big Chief** - X: <a href="https://x.com/martinseeger2"><strong>@MartinSeeger2</strong></a> - Wallet: ***DCHxodkzaKCLjmnG4LP8uH6NKynmntmCNz***
-2. **Great Ape** - X: <a href="https://x.com/Greatape42069E"><strong>@Greatape42069E</strong></a> - Wallet:  DBpLvNcR1Zj8B6dKJp4n3XEAT4FmRxbnJb
-3. **Booktoshi** - X: <a href="https://x.com/booktoshi"><strong>@booktoshi</strong></a> - Wallet: D9Ue4zayx5NP7sTSBMM9uwuzqpHv4HnkaN
-4. **BillyBitcoins** - X: <a href="https://x.com/billybitcoins"><strong>@BillyBitcoins</strong></a> - Wallet: DQAWs4LQKY3zVmorsLHDUCV7LE5ox6rho6
-5. **OCH**
+2. **Great Ape** - X: <a href="https://x.com/Greatape42069E"><strong>@Greatape42069E</strong></a> - Wallet:  ***DBpLvNcR1Zj8B6dKJp4n3XEAT4FmRxbnJb***
+3. **Booktoshi** - X: <a href="https://x.com/booktoshi"><strong>@booktoshi</strong></a> - Wallet: ***D9Ue4zayx5NP7sTSBMM9uwuzqpHv4HnkaN***
+4. **BillyBitcoins** - X: <a href="https://x.com/billybitcoins"><strong>@BillyBitcoins</strong></a> - Wallet: ***DQAWs4LQKY3zVmorsLHDUCV7LE5ox6rho6***
+5. **@Artisonchain** - X: <a href="https://x.com/Artisonchain"><strong>@Artisonchain</strong></a> - Wallet: ***DQYtdDYwALk3HhAn6Y5FtoFuiNKBbEexEH***
 6. **DPAY** - X: <a href="https://x.com/Dogepay_DRC20"><strong>@Dogepay_DRC20</strong></a> - Wallet:
 7. **Heimdall** - X: <a href="https://x.com/Heimdall_Bull"><strong>@Heimdall_Bull</strong></a> - Wallet: ***DEpFirPqu8DZUoCT7zEzGZs74JPTCF3ZMJ***
 8. **RememberLegend** - X: <a href="https://x.com/BrendanN4dn3rb"><strong>@BrendanN4dn3rb</strong></a> - Wallet: ***DMhQxUZVrsWNXJ4KbK7Dqf7wD11XRN7feR***
