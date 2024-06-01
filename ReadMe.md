@@ -49,7 +49,7 @@ If you need assistance with minting, indicate this in your pull request. Someone
    - Collaborate and communicate with other contributors to avoid conflicts and duplicate entries.
    - Regularly check the original repository for updates and new information.
    - Yes, laser nipple index will be initially set to 0 but if you change it to one, it will enable laser nipples
-   - It will be up to individual Node Runners to go through their HTML files and set the index to 1
+   - It will be up to individual Node Runners to *Go into the HTML and change laser, nipples index to 1 for laser, nipples, and 2 for OMB eyes*
 
 # Contributing
 
