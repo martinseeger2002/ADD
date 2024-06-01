@@ -6,8 +6,8 @@ import os
 from bitcoinrpc.authproxy import AuthServiceProxy, JSONRPCException
 
 # Environment variables are used to securely store sensitive data such as RPC credentials.
-rpc_user = os.getenv('RPC_USER', 'your_rpc_user')
-rpc_password = os.getenv('RPC_PASSWORD', 'veracity31')
+rpc_user = os.getenv('RPC_USER', 'your_rpc_user') ##put your rpc user name here
+rpc_password = os.getenv('RPC_PASSWORD', 'password') ##put your rpc password here
 rpc_host = os.getenv('RPC_HOST', 'localhost')
 rpc_port = os.getenv('RPC_PORT', '22555')  # Default Dogecoin RPC port
 
@@ -101,9 +101,9 @@ def continuous_minting_process(directory, file_prefix, file_extension, start_num
             print("No valid transactions in this batch to wait for.")
 
 # Initialize main variables and start process
-directory = r'C:\doginals-main\ADD\folder4'
+directory = r'C:\doginals-main\ADD\folder4'  ##putyour folder dir here
 file_prefix = 'AntiDoginalDog'
 file_extension = 'html'
-start_number = 300
+start_number = 300  ##Put the start number for you collection here.
 
 continuous_minting_process(directory, file_prefix, file_extension, start_number)
