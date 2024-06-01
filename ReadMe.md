@@ -25,14 +25,15 @@ So to counter this negative perception portrayed by these snakes infiltrating th
    - Go to the [original repository](https://github.com/martinseeger2002/ADD).
    - Click on the "Fork" button in the top right corner to create your own copy of the repository.
 
-2. **Claim your Folder**:
-   - Navigate to the `htmls` folder in your forked repository.
-   - The HTML files corresponding to your allotted numbers will be in your claimed folder.
-   - Claim an download your available folder.
-   - Ensure that each HTML file is correctly named and contains the necessary data for minting.
-   - After minting You will have an updated `json` thats to be returned to Chief so all can be compiled and updated into 1
+2. **Locate your Allocated Folders**:
+   - Navigate to `AllocationList.txt` Locate Your Name and Take Note of YOUR Numbers, *These are your folder numbers*
+   - Navigate to the Numbered folders containing `htmls` in your forked repository.
+   - The HTML files corresponding to your allotted numbers will be in your Numbered folders.
+   - Download your available folders.
+   - Ensure that each HTML file is correctly Altered for Laser Nips and OMB Eyes so it contains the desired data for minting.
+   - After minting You will have multiple updated `airDropOutput.json` thats to be renamed to define your numbers and returned to Chief so all can be compiled and updated into 1 for market submission, this can be done by uploading it to your forked version and submitting a Pull Request
 
-4. **If needed Create a Pull Request**:
+4. **When needed Create a Pull Request**:
    - Go to your forked repository on GitHub.
    - Click on "Pull requests" then "New pull request".
    - Ensure that the base repository is `martinseeger2002/ADD` and the base branch is `main`.
@@ -40,6 +41,17 @@ So to counter this negative perception portrayed by these snakes infiltrating th
    - Submit the pull request.
 
 ## Minting Instructions
+
+   - Clone repo to local machine `git clone https://github.com/martinseeger2002/ADD` or Downlaod and unzip files in the repo to local machine
+   - Download the 2 needed files `autoinscriberv2.py`, `airDropList.json`
+   - If you Have not done so already, Download your Allotted folders
+   - Move all downloaded or locally stored files and folders into your working Doginals directory e.g. `C:\Doginals-main`
+   - edit the parameters inside `autoinscriberv2.py` *the rpc_user, rpc_password, start number which is defined in folders e.g. start_number = 2224*, *directory variable e.g. directory = r'C:\Doginals-main\folder23'*, & `airDropList.json` Make sure to put the address you're minting to in this file
+   - Now Open VS Code or Command Prompt and navigate to your working Doginals directory e.g. `cd "C:\Doginals-main"`
+   - Run command `npm install -g npm@10.8.1` to ensure latest updated patches
+   - Run `pip install python-bitcoinrpc`
+   - Run `node . wallet sync`
+   - Run `python autoinscriberv2.py`
 
 If you need assistance with minting, indicate this in your pull request. Someone from the community will assist you with the minting process to ensure there are no duplicate inscriptions.
 
@@ -49,7 +61,8 @@ If you need assistance with minting, indicate this in your pull request. Someone
    - Collaborate and communicate with other contributors to avoid conflicts and duplicate entries.
    - Regularly check the original repository for updates and new information.
    - Yes, laser nipple index will be initially set to 0 but if you change it to one, it will enable laser nipples
-   - It will be up to individual Node Runners to *Go into the HTML and change laser, nipples index to 1 for laser, nipples, and 2 for OMB eyes*
+   - It will be up to individual Node Runners to *Go into the HTML and change laser, nipples index to 1 for Laser, Nipples, and 2 for OMB eyes*
+   - **Very Important** ***After minting You will have multiple updated `airDropOutput.json` thats to be renamed to define your numbers and returned to **Big Chief** so all can be compiled and updated into 1 for market submission, this can be done by uploading it to your forked version and submitting a Pull Request***
 
 # Contributing
 
