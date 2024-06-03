@@ -1,7 +1,7 @@
 import json
 
 # Load the first JSON file
-with open('merged_sorted.json', 'r') as file:
+with open('folder59.json', 'r') as file:
     first_json = json.load(file)
 
 # Load the second JSON file
@@ -27,7 +27,7 @@ for filename, data in first_json.items():
             break
 
 # Save the new JSON to a file
-with open('output_json_file.json', 'w') as file:
+with open('folder_json_file.json', 'w') as file:
     json.dump(new_json, file, indent=4)
 
 print("New JSON file has been created successfully.")
