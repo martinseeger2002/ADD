@@ -70,7 +70,7 @@ If you need assistance with minting, indicate this in your pull request. Someone
 7. **Heimdall** - X: <a href="https://x.com/Heimdall_Bull"><strong>@Heimdall_Bull</strong></a> - Wallet: ***DEpFirPqu8DZUoCT7zEzGZs74JPTCF3ZMJ***
 8. **RememberLegend** - X: <a href="https://x.com/BrendanN4dn3rb"><strong>@BrendanN4dn3rb</strong></a> - Wallet: ***DMhQxUZVrsWNXJ4KbK7Dqf7wD11XRN7feR***
 9. **Tylordius** - X: <a href="https://x.com/briggysmallss"><strong>@briggysmallss</strong></a> - Wallet: ***D5BfU3RPA8unkB8tHa74iATF4WvsEgaSmQ***
-10. **Alexa** - X: <a href="https://x.com/AlexaGawddess"><strong>@AlexaGawddess</strong></a> - Wallet: 
+10. **Alexa** - X: <a href="https://x.com/AlexaGawddess"><strong>@AlexaGawddess</strong></a> - Wallet: ***DDBR2g8DevgNQzurKMzbLNTa3fJM6noVWf***
 
 ***Thank you for contributing to the Anti Doginal Dogs project & Standing for what's right!***
 
