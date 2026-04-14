@@ -66,7 +66,7 @@ If you need assistance with minting, indicate this in your pull request. Someone
 3. **Booktoshi** - X: <a href="https://x.com/booktoshi"><strong>@booktoshi</strong></a> - Wallet: ***D9Ue4zayx5NP7sTSBMM9uwuzqpHv4HnkaN***
 4. **BillyBitcoins** - X: <a href="https://x.com/billybitcoins"><strong>@BillyBitcoins</strong></a> - Wallet: ***DQAWs4LQKY3zVmorsLHDUCV7LE5ox6rho6***
 5. **Artisonchain** - X: <a href="https://x.com/Artisonchain"><strong>@Artisonchain</strong></a> - Wallet: ***DQYtdDYwALk3HhAn6Y5FtoFuiNKBbEexEH***
-6. **DPAY** - X: <a href="https://x.com/Dogepay_DRC20"><strong>@Dogepay_DRC20</strong></a> - Wallet:
+6. **DPAY** - X: <a href="https://x.com/Dogepay_DRC20"><strong>@Dogepay_DRC20</strong></a> - Wallet:  ***DEXKkt6KVzowBHa2TQkkrh1wZ2EJvhwz2V***
 7. **Heimdall** - X: <a href="https://x.com/Heimdall_Bull"><strong>@Heimdall_Bull</strong></a> - Wallet: ***DEpFirPqu8DZUoCT7zEzGZs74JPTCF3ZMJ***
 8. **RememberLegend** - X: <a href="https://x.com/BrendanN4dn3rb"><strong>@BrendanN4dn3rb</strong></a> - Wallet: ***DMhQxUZVrsWNXJ4KbK7Dqf7wD11XRN7feR***
 9. **Tylordius** - X: <a href="https://x.com/briggysmallss"><strong>@briggysmallss</strong></a> - Wallet: ***D5BfU3RPA8unkB8tHa74iATF4WvsEgaSmQ***
